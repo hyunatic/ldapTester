@@ -2,7 +2,7 @@ import React from 'react'
 
 const Protected = () => {
   return (
-    <div>Protected</div>
+    <div>Logged in via Keycloak</div>
   )
 }
 

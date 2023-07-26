@@ -1,7 +1,7 @@
 # Getting Started with Create React App
-cd <project-folder>
-npm install
-npm start
+cd <project-folder> <br/>
+npm install <br/>
+npm start <br/>
 
 ## Run Test Keycloak and ApacheDS environment
 docker compose up -d
