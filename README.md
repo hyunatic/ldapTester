@@ -3,8 +3,8 @@ cd <project-folder> <br/>
 npm install <br/>
 npm start <br/>
 
-## Run Test Keycloak and ApacheDS environment
-docker compose up -d
+## Run Test Keycloak and ApacheDS environment with log
+docker compose up
 
 ## Access KeyCloak server
 Open web browser to http://localhost:4000
